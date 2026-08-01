@@ -1,2 +1,4 @@
-# pricing-table-html-31
+# Pricing Table Html 31
+
 Pricing options comparison HTML structure.
+
